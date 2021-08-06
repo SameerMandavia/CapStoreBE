@@ -8,7 +8,6 @@ public class CapStoreBeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CapStoreBeApplication.class, args);
-		System.out.println("Capstore");
 	}
 
 }
